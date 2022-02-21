@@ -1,0 +1,5 @@
+C:\Users\Иван Коротеев\source\repos\AutocadDLL\AutocadDLL\bin\Debug\AutocadDLL.dll
+C:\Users\Иван Коротеев\source\repos\AutocadDLL\AutocadDLL\bin\Debug\AutocadDLL.pdb
+C:\Users\Иван Коротеев\source\repos\AutocadDLL\AutocadDLL\obj\Debug\AutocadDLL.csproj.CoreCompileInputs.cache
+C:\Users\Иван Коротеев\source\repos\AutocadDLL\AutocadDLL\obj\Debug\AutocadDLL.dll
+C:\Users\Иван Коротеев\source\repos\AutocadDLL\AutocadDLL\obj\Debug\AutocadDLL.pdb
